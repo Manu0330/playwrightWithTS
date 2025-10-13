@@ -10,4 +10,3 @@ test.describe('Playwright website', () => {
     await expect(getStartedLink).toBeVisible();
   });
 });
-
